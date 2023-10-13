@@ -142,10 +142,15 @@
       (net 4 "GND") (pinfunction "K") (pintype "passive") (tstamp b9c229f3-98b5-41eb-a379-af96b254d87d))
     (pad "MH1" thru_hole circle (at -9.73 -1.8 270) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask")
       (net 3 "unconnected-(S1-PadMH1)") (pinfunction "MH1") (pintype "passive+no_connect") (tstamp 61c865ee-8787-49c7-bfde-9fae3179ac2f))
-    (model "D2FP-FN2.stp"
+    (model "${KIPRJMOD}/D2FP/D2FP-FN2.stp" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/magnets.step" hide
+      (offset (xyz 4 -12 -1.75))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 90))
     )
   )
 
@@ -298,7 +303,7 @@
       (net 6 "Net-(D1-K)") (pinfunction "K") (pintype "passive") (tstamp fb38c31d-29f8-4fa8-9bc7-2ba530c28fab))
     (pad "2" smd roundrect (at 1 0 180) (size 1.2 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.208333)
       (net 5 "+5V") (pinfunction "A") (pintype "passive") (tstamp 99eb9bfc-7791-421a-8d42-b2709ed482f6))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -424,9 +429,14 @@
     (pad "3" thru_hole circle (at 5 0 90) (size 1.7 1.7) (drill 0.95) (layers "*.Cu" "*.Mask")
       (net 1 "S") (pintype "passive") (tstamp f629a5a6-951b-4250-9e95-e185dd1d04ce))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 -0.125 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/magnets.step" hide
+      (offset (xyz 11 -14 -1.75))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 -180 90))
     )
   )
 
@@ -589,7 +599,7 @@
       (net 6 "Net-(D1-K)") (pintype "passive") (tstamp e69645d0-2f3f-46e5-bc87-ba495d0f2234))
     (pad "2" smd roundrect (at 1 0 180) (size 1.2 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2083333333)
       (net 4 "GND") (pintype "passive") (tstamp 38dc1167-00a0-477f-8d4a-b269ace6055c))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

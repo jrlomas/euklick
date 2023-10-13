@@ -649,7 +649,7 @@
     (pin "1" (uuid 4778c648-e872-48e0-9a55-e0ddb4eb10eb))
     (pin "2" (uuid f15b0b77-6845-4626-99b0-3b5313d04bba))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "R4") (unit 1)
         )
@@ -675,7 +675,7 @@
     (pin "1" (uuid 3fb8b4c0-6331-4c09-bae0-564ecac4705e))
     (pin "2" (uuid d5dec8aa-6ca2-4a87-8e5e-eb4a8cb8a888))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "R3") (unit 1)
         )
@@ -700,7 +700,7 @@
     )
     (pin "1" (uuid 35b4d294-4973-48ec-b8c7-8c128817152a))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR02") (unit 1)
         )
@@ -730,7 +730,7 @@
     )
     (pin "1" (uuid 0aeb86a3-d059-4fa7-886c-fc5a0e79fd09))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR05") (unit 1)
         )
@@ -774,7 +774,7 @@
     (pin "K1" (uuid 8cda89f3-8439-45bf-8e0b-2a38b7ce57b1))
     (pin "MH1" (uuid b701f456-d81d-46b3-b9af-1989646bd57c))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "S1") (unit 1)
         )
@@ -799,7 +799,7 @@
     )
     (pin "1" (uuid 26328d08-2937-41fb-bd67-5269a86b5f37))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "H2") (unit 1)
         )
@@ -858,7 +858,7 @@
     (pin "2" (uuid d5da5a69-e126-4300-a142-4c2518d14324))
     (pin "3" (uuid bc585796-4dbb-4e31-9284-4628985a5458))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "J1") (unit 1)
         )
@@ -888,7 +888,7 @@
     )
     (pin "1" (uuid f42ae142-33dc-4816-9e05-07e49b8f4247))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR03") (unit 1)
         )
@@ -913,7 +913,7 @@
     )
     (pin "1" (uuid f93d92be-225c-431a-a42b-ded2d6778a1a))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "H1") (unit 1)
         )
@@ -943,7 +943,7 @@
     )
     (pin "1" (uuid 0c641fe9-286b-48ff-bc92-ff0260bb15d1))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR04") (unit 1)
         )
@@ -973,7 +973,7 @@
     )
     (pin "1" (uuid cd71fd76-524e-4133-9455-2b9a07dfe452))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR06") (unit 1)
         )
@@ -999,7 +999,7 @@
     (pin "1" (uuid 623161ed-c3d2-4cf5-a676-5447bd1e7924))
     (pin "2" (uuid bf8ef5a7-9086-440e-bd8b-cc02e411bd08))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "R1") (unit 1)
         )
@@ -1024,7 +1024,7 @@
     )
     (pin "1" (uuid 3fe299eb-0e30-48d9-b0cc-ac8c01fccfba))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR08") (unit 1)
         )
@@ -1049,7 +1049,7 @@
     )
     (pin "1" (uuid 970da171-a24c-4b66-9e86-0af60e035db0))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "H3") (unit 1)
         )
@@ -1083,7 +1083,7 @@
     (pin "1" (uuid de1c9b9f-b387-4573-8a52-711986856025))
     (pin "2" (uuid 5192dd71-3a19-43b6-b2fe-a7d856ec2873))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "D1") (unit 1)
         )
@@ -1108,7 +1108,7 @@
     )
     (pin "1" (uuid 7014b126-dab3-460c-a4c4-4890b5e087e8))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR01") (unit 1)
         )
@@ -1133,7 +1133,7 @@
     )
     (pin "1" (uuid 73536712-1635-484b-b854-d578f0bfbd6e))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR07") (unit 1)
         )
@@ -1158,7 +1158,7 @@
     )
     (pin "1" (uuid 370a811f-64b0-4bb3-9129-64ce07fb9448))
     (instances
-      (project "ProbePCB"
+      (project "euklick"
         (path "/e1d5e7d1-15b9-4ce2-a35d-e7ddbec881ef"
           (reference "#PWR09") (unit 1)
         )
