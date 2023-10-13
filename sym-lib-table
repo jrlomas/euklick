@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "euklick")(type "KiCad")(uri "${KIPRJMOD}/euklick.kicad_sym")(options "")(descr ""))
+  (lib (name "d2fp")(type "KiCad")(uri "${KIPRJMOD}/D2FP-FN2.kicad_sym")(options "")(descr ""))
+)
