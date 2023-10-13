@@ -3,7 +3,7 @@
 <img src="images/front.png" width="400">
 <img src="images/rear.png" width="410">
 
-Single PCB 5V optical probe for 3D printers.  Euklick is meant to work with the new Omron optical microswitches of the [D2FP series](https://www.mouser.com/datasheet/2/307/Omron_08182023_D2FP_Datasheet_English-3305532.pdf), specifically the [D2FP-FN2](https://www.mouser.com/ProductDetail/653-D2FP-FN2).  This switch is rated to a *minimum* of **70,000,000** operations, and much tighter tolerances during at the time the switch is pressed.
+Single PCB 5V optical probe for 3D printers.  Euklick is meant to work with the new Omron optical microswitches of the [D2FP series](https://www.mouser.com/datasheet/2/307/Omron_08182023_D2FP_Datasheet_English-3305532.pdf), specifically the [D2FP-FN2](https://www.mouser.com/ProductDetail/653-D2FP-FN2).  This switch is rated to a *minimum* of **70,000,000** operations, and much tighter tolerances at the time the switch is pressed.
 
 
 
