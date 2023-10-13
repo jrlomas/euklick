@@ -16,7 +16,7 @@ Unlike PCBKlicky, the board only supports 5V as its source of power, and power i
 
 | Item | Quantity | Notes |
 | ----------- | ------------ | ----------- |
-| toolhead PCB | 2 | [gerber files]() to order |
+| toolhead PCB | 2 | [gerber files](euklick_production/euklick.zip), [bom](euklick_production/bom.csv), and [cpl](euklick_production/positions.csv) files to order |
 | JST-XH 3 pin header | 1 | |
 | JST-XH 3 wire pigtail connector | 1| |
 | pair of countersunk, matching magnets | 5 | [source](https://www.kjmagnetics.com/proddetail.asp?prod=R422CS-P&cat=15)|
