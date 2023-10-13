@@ -33,7 +33,7 @@ Unlike PCBKlicky, the board only supports 5V as its source of power, and power i
 <img src="images/mounted_probe.png" width="200">
 
 Two of the boards have to be used for assembly.
-For the upper board (board attach to the toolhead), only the JST 3 pin header is necessary, along with three countersunk magnets.  Optionally, the *wings* on the board can be snapped along this line.
+For the upper board (board attach to the toolhead), only the JST 3 pin header is necessary, along with three countersunk magnets.  Optionally, the *wings* on the board can be snapped along the provided mouse bites line.
 
 <img src="images/upper_probe_jst_position.png" height="200"><img src="images/upper_probe.png" height="200">
 
