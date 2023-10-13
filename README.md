@@ -17,6 +17,10 @@ Unlike PCBKlicky, the board only supports 5V as its source of power, and power i
 | Item | Quantity | Notes |
 | ----------- | ------------ | ----------- |
 | toolhead PCB | 2 | [gerber files](euklick_production/euklick.zip), [bom](euklick_production/bom.csv), and [cpl](euklick_production/positions.csv) files to order |
+| 1K 0850 Resistor | 1 ||
+| 20k 0850 Resistor | 1|  Pull-up resistor any value between 10k and 50k|
+| 680R 0805 Resistor | 1 | LED resistor |
+| 0805 LED | 1 | Any color of your choice |
 | JST-XH 3 pin header | 1 | |
 | JST-XH 3 wire pigtail connector | 1| |
 | pair of countersunk, matching magnets | 5 | [source](https://www.kjmagnetics.com/proddetail.asp?prod=R422CS-P&cat=15)|
